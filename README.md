@@ -154,7 +154,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-- **Author:**Isaac DeVaney	
+- **Author:** Isaac DeVaney	
 - **Email:** isaacdevaney@gmail.com 
-- **GitHub:**idevane
+- **GitHub:** idevane
 
